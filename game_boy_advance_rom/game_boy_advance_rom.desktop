@@ -1,0 +1,17 @@
+[Desktop Entry]
+Encoding=UTF-8
+Icon=application-x-executable
+Type=Service
+ServiceTypes=KPluginInfo
+
+Name=Game Boy Advance ROM
+Comment=Structure for Game Boy Advance cartridge ROM files (GBA)
+
+X-KDE-PluginInfo-Author=Tibor Nagy
+X-KDE-PluginInfo-Email=xnagytibor@gmail.com
+X-KDE-PluginInfo-Name=game_boy_advance_rom
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=http://github.com/xtibor/okteta_structures
+X-KDE-PluginInfo-Category=structure/js
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-EnabledByDefault=false
