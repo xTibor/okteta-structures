@@ -1,0 +1,17 @@
+[Desktop Entry]
+Encoding=UTF-8
+Icon=text-x-generic
+Type=Service
+ServiceTypes=KPluginInfo
+
+Name=Ész-kerek DAT file
+Comment=Structure for Babi-Szoft Ész-kerék DAT files
+
+X-KDE-PluginInfo-Author=Tibor Nagy
+X-KDE-PluginInfo-Email=xnagytibor@gmail.com
+X-KDE-PluginInfo-Name=babiszoft_eszkerek_dat
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=http://github.com/xtibor/okteta_structures
+X-KDE-PluginInfo-Category=structure/js
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-EnabledByDefault=false
