@@ -76,7 +76,7 @@ function envelope() {
         }), 25),
     }).set({
         name: "Envelope",
-    });;
+    });
 }
 
 function instrument() {

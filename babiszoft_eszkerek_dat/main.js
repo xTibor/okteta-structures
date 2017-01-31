@@ -1,5 +1,5 @@
-//  Babi-Szoft Ész-kerék DAT file structure file for Okteta
-//  by Tibor Nagy <xnagytibor@gmail.com>
+// Babi-Szoft Ész-kerék DAT file structure file for Okteta
+// by Tibor Nagy <xnagytibor@gmail.com>
 
 function init() {
     return array(
