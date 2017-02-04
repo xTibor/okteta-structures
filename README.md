@@ -7,3 +7,4 @@ Various structure definition files for Okteta.
 * Game Boy Advance cartridge ROM files (GBA)
 * Impulse Tracker 2 module files (IT)
 * Standard MIDI files (MID)
+* Virtual Boy ROM files (VB)
