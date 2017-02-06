@@ -1,0 +1,17 @@
+[Desktop Entry]
+Encoding=UTF-8
+Icon=text-x-generic
+Type=Service
+ServiceTypes=KPluginInfo
+
+Name=Okteta crash
+Comment=Structure for crashing Okteta
+
+X-KDE-PluginInfo-Author=Tibor Nagy
+X-KDE-PluginInfo-Email=xnagytibor@gmail.com
+X-KDE-PluginInfo-Name=test_okteta_crash
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=http://github.com/xtibor/okteta_structures
+X-KDE-PluginInfo-Category=structure/js
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-EnabledByDefault=false
